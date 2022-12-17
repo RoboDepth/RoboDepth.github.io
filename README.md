@@ -1,1 +1,1 @@
-# RovoDepth Competition @ ICRA 2023
+# RoboDepth Competition @ ICRA 2023
