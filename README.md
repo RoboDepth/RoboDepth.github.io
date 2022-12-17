@@ -1,1 +1,1 @@
-# SeasonDepth_Challenge
+# RovoDepth Competition @ ICRA 2023
